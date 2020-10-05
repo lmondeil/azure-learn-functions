@@ -1,6 +1,6 @@
 namespace functions.Models
 {
-    public class TodoUpdateModel
+    public class TodoCreateModel
     {
         public string TaskDescription { get; set; }
         public bool IsCompleted { get; set; }
